@@ -1,6 +1,6 @@
-# ums_0ad_tournamang_2023
+# ums_0ad_turnering_2023
 
-0AD tournamang hos Uppsala Makerspace 2023.
+0AD turnering hos Uppsala Makerspace 2023.
 
 ![](pics/ums_0ad_logo_50.png)
 
@@ -97,13 +97,13 @@ men man kan alltid göra mer drag.
 
 For deltagare:
 
- * Spelet är gratis
- * Spelet funkar på Linux, Mac och Windows
- * Spelet kann vara intallerat utan admin/root rättigheter.
+ * Spelet är **gratis**
+ * Spelet funkar på **värje styrningsystem** (dws Linux, Mac och Windows)
+ * Spelet kann **intalleras utan admin/root rättigheter**.
    Bra om deltagaren har skoldartorer :-)
- * Spelet är en utmaning för hjärnan: 
+ * Spelet är en **utmaning för hjärnan**: 
    man behöver har ett smart strategi för att vinna
- * Spelet är bra för att lära sig jobba tillsammans i ett lag
+ * Spelet är bra för att **lära sig jobba tillsammans** i ett lag
 
 For organisatören:
 
@@ -112,7 +112,7 @@ For organisatören:
  * Praktiskt: spelet genererar s.k. replays, så organisatören behöver inte att
    kollar en spel live. Också: deltagare kann visar ärligt vem har vunnit
 
-### Hur funkar tournamanget?
+### Hur funkar turneringet?
 
 Ser 'Översikt'
 
@@ -131,6 +131,8 @@ Om du är ensam: schicka din namn till organisatoren och du blir slumpmässigt
 kopplad till någon annan.
 
 ### Vår lag vet vår motståndare. Hur spelar vi?
+
+ * Tips: ser också [den här YouTube video]()
 
 Kontaktar motståndare på Discord och hitta en moment att ni fyra kann kämpa.
 
@@ -163,6 +165,14 @@ Varja en klicka på 'I am ready' när hen är med.
 Gästgivare (EN: 'host') klick på 'Start game' för att starta spel.
 
 Lyckas till!
+
+### Vår lag har spelat. Hur delar vi igenspelningen ?
+
+Efter en match har varje spelare en igenspelning (EN: 'replay')
+på sin dators festplatta. 
+
+
+Schicka den 
 
 ## Länkar
 
