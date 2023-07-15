@@ -132,7 +132,7 @@ kopplad till någon annan.
 
 ### Vår lag vet vår motståndare. Hur spelar vi?
 
- * Tips: ser också [den här YouTube video]()
+ * Tips: ser också [den här YouTube video](https://youtu.be/cQIAz1tjRyM)
 
 Kontaktar motståndare på Discord och hitta en moment att ni fyra kann kämpa.
 
