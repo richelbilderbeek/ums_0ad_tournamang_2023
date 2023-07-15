@@ -171,6 +171,14 @@ Lyckas till!
 Efter en match har varje spelare en igenspelning (EN: 'replay')
 på sin dators festplatta. 
 
+Dan är här:
+
+ * Windows: `C:\Users\JohnDoe\Documents\My Games\0ad\`
+ * Ubuntu: `~/snap/0ad/592/.local/share/0ad/replays/0.0.26/2023-06-25_0001`
+ * Mac: `/Users/{YOUR USERNAME}/Library/Application\ Support/0ad/`
+
+ * Tips: kollar [här](https://trac.wildfiregames.com/wiki/GameDataPaths) 
+   för den officiella dokumentation
 
 Schicka den 
 
