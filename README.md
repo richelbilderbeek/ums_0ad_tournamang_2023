@@ -176,7 +176,7 @@ och kolla på nere av skärmet.
 
 ![](pics/0ad_replays_path.png)
 
-> Den här igenspelning är på `/home/richel/snap/0ad/592/.local/share/0ad/replays/0.0.26/2023-06-25_0001`
+> Den här igenspelning är på `/home/richel/snap/0ad/592/.local/share/0ad/replays/0.0.26/2023-07-15_0005`
 
 Schicka den hela folder till organisatören.
 
