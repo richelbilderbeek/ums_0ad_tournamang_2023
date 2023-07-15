@@ -2,7 +2,7 @@
 
 0AD tournamang hos Uppsala Makerspace 2023.
 
-![](pics/ums_0ad_logo.png)
+![](pics/ums_0ad_logo_50.png)
 
 ## Schemat
 
