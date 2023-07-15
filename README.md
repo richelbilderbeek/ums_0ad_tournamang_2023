@@ -171,16 +171,14 @@ Lyckas till!
 Efter en match har varje spelare en igenspelning (EN: 'replay')
 på sin dators festplatta. 
 
-Dan är här:
+Du kan hitta var dina igenspelningar är med att klick på en
+och kolla på nere av skärmet.
 
- * Windows: `C:\Users\JohnDoe\Documents\My Games\0ad\`
- * Ubuntu: `~/snap/0ad/592/.local/share/0ad/replays/0.0.26/2023-06-25_0001`
- * Mac: `/Users/{YOUR USERNAME}/Library/Application\ Support/0ad/`
+![](pics/0ad_replays_path.png)
 
- * Tips: kollar [här](https://trac.wildfiregames.com/wiki/GameDataPaths) 
-   för den officiella dokumentation
+> Den här igenspelning är på `/home/richel/snap/0ad/592/.local/share/0ad/replays/0.0.26/2023-06-25_0001`
 
-Schicka den 
+Schicka den hela folder till organisatören.
 
 ## Länkar
 
