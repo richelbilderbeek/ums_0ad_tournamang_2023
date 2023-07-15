@@ -4,7 +4,38 @@
 
 ![](pics/ums_0ad_logo_50.png)
 
-## Schemat
+## Översikt
+
+Först behöver deltagare skapa lag av 2 personer på Discord 
+(ser Discord länk på 'Länkar' nedåt). 
+
+Det finns fyra rundar:
+
+ * 8:e final, mellan 16 lag
+ * kvart final, mellan 8 lag
+ * halva final, mellan 4 lag
+ * final, mellan 2 lag
+
+Varje run startar med ett meddelande på Discord server
+vilka lag ska kämpa emot varann:
+
+ * 8:e final: 2023-07-29 10:00
+ * kvart final: 2023-08-05 10:00
+ * halva final: 2023-08-12 10:00
+ * final: 2023-08-19 10:00
+
+Varje lag har 6 dagar för att kämpa emot varann.
+Replay filen måste blir skickat till organisören före en deadline:
+
+ * 8:e final: 2023-08-04 23:59
+ * kvart final: 2023-08-11 23:59
+ * halva final: 2023-08-18 23:59
+ * final: 2023-08-25 23:59
+
+Bara lag som vinner gör till nästa rund.
+Vinnaren får sina pris på lördag 2023-08-26 under Lördagskurserna.
+
+## Schemat, detaljerad
 
 Dag          |Vad
 -------------|-----------------------------------
@@ -47,25 +78,43 @@ LÖ 2023-08-26|(under Lördagskurser) Pris
 lite likadant schack (det är mycket strategi!)
 men man kan alltid göra mer drag.
 
- * [0AD hemsida](https://play0ad.com/): 
- * [0AD på Wikipedia (Engelska)](https://en.wikipedia.org/wiki/0_A.D._(video_game))
- * [0AD YouTube kanal](https://www.youtube.com/user/play0ad)
- * [Tom0AD YouTube kanal](https://www.youtube.com/@Tom0ad)
- * [ValihrAnt YouTube kanal](https://www.youtube.com/@ValihrAnt)
- * [0ADNewbieRush YouTube kanal](https://www.youtube.com/@0ADNewbieRush)
- * [Alistair Findlay YouTube kanal](https://www.youtube.com/watch?v=jQMETPZGRds&list=PLtv3Tue78X0UPnWc_3bPzC58Sm0b4G2ZX)
+ * [0AD hemsida](https://play0ad.com/): den officiella hemsida av 0AD 
+ * [0AD på Wikipedia (Engelska)](https://en.wikipedia.org/wiki/0_A.D._(video_game)): den Wikipedia sida av 0AD (på Engelska)
+ * [0AD YouTube kanal](https://www.youtube.com/user/play0ad): 0AD's officiella YouTube kanal
+ * YouTube kanaler som visar strategier:
+   * [Tom0AD YouTube kanal](https://www.youtube.com/@Tom0ad): 
+     Tom0AD är en måttligt spelare, seriöst, detaljerad och har mycket videor.
+   * [ValihrAnt YouTube kanal](https://www.youtube.com/@ValihrAnt): 
+     ValihrAnt (den nuvarande världsmästare) är roligt. Tyvvär har han inte mycket videor
+   * [0ADNewbieRush YouTube kanal](https://www.youtube.com/@0ADNewbieRush): 
+     en newbie kanal
+   * [Alistair Findlay YouTube kanal](https://www.youtube.com/watch?v=jQMETPZGRds&list=PLtv3Tue78X0UPnWc_3bPzC58Sm0b4G2ZX): 
+     Alistair Findlay är också en bra spelere och har en konstigt type humor.
+   * [richelbilderbeek's YouTube kanal](https://www.youtube.com/watch?v=K_M1geCdNhQ&list=PLu8_ZyzXyRDGTXZ1fQpcCPjeeX5MjIgxP): 
+     `richelbilderbeek` är en måttligt spelare men gör videor med nuvarenda 0AD versioner
 
 ### Varför 0AD?
 
- * Spel är gratis och funkar på Linux, Mac och Windows
- * Man kan spela det i ett lag
- * Spelet genererar s.k. replays
+For deltagare:
+
+ * Spelet är gratis
+ * Spelet funkar på Linux, Mac och Windows
+ * Spelet kann vara intallerat utan admin/root rättigheter.
+   Bra om deltagaren har skoldartorer :-)
+ * Spelet är en utmaning för hjärnan: 
+   man behöver har ett smart strategi för att vinna
+ * Spelet är bra för att lära sig jobba tillsammans i ett lag
+
+For organisatören:
+
+ * Pedagiskt: deltagare behöver har ett smart strategi för att vinna
+ * Pedagogiskt: deltagare måste skapa ett lag och lära sig att jobba tillsammans
+ * Praktiskt: spelet genererar s.k. replays, så organisatören behöver inte att
+   kollar en spel live. Också: deltagare kann visar ärligt vem har vunnit
 
 ### Hur funkar tournamanget?
 
-På varje Lördag kl 10.00 blir matchar bekanta.
-Deltagere har ett lite mindre än ett vecka at spela emot sina motståndare.
-För Fredags 23:59 skulle replay av den matchen bli schikad till orginisatoren.
+Ser 'Översikt'
 
 ### Vad kan jag vinna?
 
@@ -73,14 +122,48 @@ För Fredags 23:59 skulle replay av den matchen bli schikad till orginisatoren.
 
 ### Hur blir jag deltagare?
 
+Det finns en Discord kanal var du kann göra det (ser 'Länkar' nedåt)
 Du kan bli deltagare ensam eller i ett lag av två.
 
-Du och din lagmedlem måste schicka er namn och lagnamnet till organisatoren.
+Du och din lagmedlem måste schicka er namn och lagnamnet till organisatören.
 
 Om du är ensam: schicka din namn till organisatoren och du blir slumpmässigt
 kopplad till någon annan.
 
+### Vår lag vet vår motståndare. Hur spelar vi?
 
+Kontaktar motståndare på Discord och hitta en moment att ni fyra kann kämpa.
 
+I 0AD, varje en av ni, går till 'Game Lobby':
 
+![](pics/0ad_game_lobby.png)
 
+> Klick på 'Multiplayer | Game Lobby'
+
+Klicka 'Connect':
+
+![](pics/0ad_game_lobby_connect.png)
+
+ * Tips: varje en behöver en account och måste har accepterad 
+   'Terms of Service', 'Terms of Use' och 'Privacy Policy'
+
+> Klick på 'Connect'
+
+En av ni fyra behöver att 'Host game'.
+
+ * Tips: använder en lösenord för er match så att bara ni kan delta
+
+Den andra tre klick på 'Join game'
+
+![](pics/0ad_game_lobby_host_game.png)
+
+Ni väljer en 4 spelare karta.
+Varje en delar med gästgivare (EN: 'host') vilken civilisation ni vill har.
+Varja en klicka på 'I am ready' när hen är med.
+Gästgivare (EN: 'host') klick på 'Start game' för att starta spel.
+
+Lyckas till!
+
+## Länkar
+
+ * Discord länk: https://discord.gg/f3exdb9E
