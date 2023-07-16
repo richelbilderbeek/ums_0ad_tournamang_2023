@@ -11,7 +11,7 @@ där man bygger en bas och soldater och försöker krossa motståndaren
 med historiska civilisationer
 (för mer info om spelet, se 'vanliga frågor' nedan).
 
-![](0ad_gameplay_1_50.png)
+![](pics/0ad_gameplay_1_50.png)
 
 > Så ser 0AD ut
 
