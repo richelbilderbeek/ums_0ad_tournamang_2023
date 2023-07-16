@@ -6,8 +6,14 @@
 
 ## Översikt
 
-Det är en turning med spelet 0AD, en s.k. real-time strategy game
+Det är en turnering med spelet 0AD, en s.k. real-time strategy game
+där man bygger en bas och soldater och försöker krossa motståndaren
+med historiska civilisationer
 (för mer info om spelet, se 'vanliga frågor' nedan).
+
+![](0ad_gameplay_1_50.png)
+
+> Så ser 0AD ut
 
 För att delta, behöver deltagarna skapa lag med 2 personer på Discord 
 (se Discord länk under 'Länkar' nedan).
