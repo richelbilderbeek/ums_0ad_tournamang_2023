@@ -1,10 +1,18 @@
 # ums_0ad_turnering_2023
 
+> I came, I saw, I conquered.
+> 
+> Caesar, after routing Pharnaces II of Pontus in the first assault (Plutarch, “Parallel Lives”, “Caesar”, sec. 50)
+
 0AD turnering hos Uppsala Makerspace 2023.
 
 ![](pics/ums_0ad_logo_50.png)
 
 ## Översikt
+
+> Cowards do not count in battle; they are there, but not in it.
+>
+> Euripides (“Meleager”)
 
 Det är en turnering med spelet 0AD, en s.k. real-time strategy game
 där man bygger en bas och soldater och försöker krossa motståndaren
@@ -50,6 +58,10 @@ Vinnarna får sitt pris på lördag 2023-08-26 under Lördagskurserna.
 
 ### Vad är 0AD?
 
+> The fox knows many tricks; the hedgehog one good one.
+>
+> Archilochus (fragment 201)
+
 0AD är en 'Real-time Strategy' spel, 
 ungefär som schack (det är mycket strategi!)
 men man kan alltid göra fler drag 
@@ -74,6 +86,11 @@ utan att behöva vänta på motståndaren.
 
 ### Varför 0AD?
 
+> It is from their foes, not their friends, 
+> that cities learn the lesson of building high walls and ships of war.
+>
+> Aristophanes (“Birds”)
+
 For deltagare:
 
  * Spelet är **gratis**
@@ -93,13 +110,21 @@ For organisatören:
 
 ### Hur funkar turneringen?
 
-Ser 'Översikt'
+Se 'Översikt'
 
 ### Vad kan jag vinna?
+
+> The worst ruler is one who cannot rule himself.
+>
+> Cato the Elder (Plutarch, “Moralia”, “Sayings of Romans”, 198f)
 
 Äran och ett lite pris. Men viktigaste är äran :-)
 
 ### Hur kan jag delta?
+
+> Spartans do not ask how many, only where the enemy are.
+>
+> Agis II of Sparta (Plutarch, “Moralia”, “Sayings of Spartans”, 215d)
 
 Det finns en Discord kanal där du kan anmäla dig (se 'Länkar' nedan)
 Du kan anmäla dig själv eller med ett lag av två.
@@ -110,6 +135,11 @@ Om du är ensam: skicka ditt namn till organisatören och du blir slumpmässigt
 placerad i ett lag med någon annan.
 
 ### Hur spelar vi emot vår fiende?
+
+> Physical strength is only noble in cattle, 
+> it is strength of character that is noble in men.
+>
+> Democritus (fragment)
 
  * Tips: se också [den här YouTube video](https://youtu.be/cQIAz1tjRyM)
 
@@ -146,6 +176,10 @@ Klicka sedan på 'I am ready' när du är nöjd med inställningarna.
 Lycka till!
 
 ### Hur delar vi inspelningen?
+
+> Wise men learn more from fools than fools from the wise.
+>
+> Cato the Elder (Plutarch, “Parallel Lives”, “Cato the Elder”, sec. 9)
 
 Efter en match har varje spelare en inspelningen (EN: 'replay')
 på sin dators hårddisk. 
