@@ -198,4 +198,4 @@ Skicka hela mappen till organisatören.
 ## Länkar
 
  * Discord länk: https://discord.gg/f3exdb9E
- * [Alla 0A quotes](https://github.com/0ad/0ad/blob/master/binaries/data/mods/public/gui/text/quotes.txt)
+ * [Alla 0AD quotes](https://github.com/0ad/0ad/blob/master/binaries/data/mods/public/gui/text/quotes.txt)
